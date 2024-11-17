@@ -69,9 +69,7 @@
         "compatibility": {}
       }
     ]
-  }
-},
-{
-"manifest": "https://raw.githubusercontent.com/AyeSpydie/RocchnarAndTheFourDwarves/master/module.json",
-"download": "https://github.com/AyeSpydie/RocchnarAndTheFourDwarves/archive/refs/heads/main.zip"
+  },
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/RocchnarAndTheFourDwarves/master/module.json",
+  "download": "https://github.com/AyeSpydie/RocchnarAndTheFourDwarves/archive/refs/heads/main.zip"
 }
