@@ -1,10 +1,10 @@
 {
   "id": "the-ransacked-relic-a-pathfinder-second-edition-adventure-for-new-players",
   "title": "The Ransacked Relic: A Pathfinder Second Edition Adventure for New Players",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "compatibility": {
     "minimum": "12",
-    "verified": "12"
+    "verified": "13"
   },
   "description": "The Ransacked Relic: A Pathfinder Second Edition Adventure for New Players is a first level adventure designed to work as an alternative introduction adventure to Paizo's Beginner Box adventure Menace Under Otari. Additionally, it contains optional story ties to run it along side the Sky King's Tomb adventure path.",
   "authors": [
